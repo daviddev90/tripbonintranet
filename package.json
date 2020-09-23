@@ -1,0 +1,29 @@
+{
+  "name": "intranet",
+  "version": "1.0.0",
+  "devDependencies": {
+    "autoprefixer": "^7.2.6",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-svg-sprite": "^1.4.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-import": "^11.1.0",
+    "postcss-nested": "^2.x",
+    "postcss-simple-vars": "^4.1.0",
+    "webpack": "^3.12.0"
+  },
+  "dependencies": {
+    "eslint": "^5.4.0",
+    "file-system": "^2.2.2",
+    "firebase": "^5.4.0",
+    "jquery": "^3.2.1",
+    "jshint": "^2.9.6",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0"
+  }
+}
